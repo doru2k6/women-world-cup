@@ -1,0 +1,102 @@
+##################################
+# Women's World Cup 2015 Canada
+#
+#  see en.wikipedia.org/wiki/2015_FIFA_Women's_World_Cup
+
+
+Group A  |  Canada         China           New Zealand   Netherlands  
+Group B  |  Germany        Côte d'Ivoire   Norway        Thailand
+Group C  |  Japan          Switzerland     Cameroon      Ecuador
+Group D  |  United States  Australia       Sweden        Nigeria
+Group E  |  Brazil         South Korea     Spain         Costa Rica
+Group F  |  France         England         Colombia      Mexico
+
+
+Matchday 1  |  Jun/6
+Matchday 2  |  Jun/7
+Matchday 3  |  Jun/8
+Matchday 4  |  Jun/9
+Matchday 5  |  Jun/11
+Matchday 6  |  Jun/12
+Matchday 7  |  Jun/13
+Matchday 8  |  Jun/15
+Matchday 9  |  Jun/16
+Matchday 10 |  Jun/17
+
+
+
+Group A:
+
+(1)  Jun/6   Canada        -  China
+(2)  Jun/6   New Zealand   -  Netherlands
+
+(14) Jun/11  China         -  Netherlands
+(13) Jun/11  Canada        -  New Zealand
+
+(25) Jun/15  Netherlands   -  Canada
+(26) Jun/15  China         -  New Zealand
+
+
+Group B:
+
+(4)  Jun/7   Norway         -  Thailand
+(3)  Jun/7   Germany        -  Côte d'Ivoire
+
+(15) Jun/11  Germany        -  Norway
+(16) Jun/11  Côte d'Ivoire  -  Thailand
+
+(27) Jun/15  Thailand       -  Germany
+(28) Jun/15  Côte d'Ivoire  -  Norway
+
+
+Group C:
+
+(6)  Jun/8   Cameroon       -  Ecuador
+(5)  Jun/8   Japan          -  Switzerland
+
+(18) Jun/12  Switzerland    -  Ecuador
+(17) Jun/12  Japan          -  Cameroon
+
+(29) Jun/16  Ecuador        -  Japan
+(30) Jun/16  Switzerland    -  Cameroon
+
+
+Group D:
+
+(8)  Jun/8   Sweden         -  Nigeria
+(7)  Jun/8   United States  -  Australia
+
+(20) Jun/12  Australia      -  Nigeria
+(19) Jun/12  United States  -  Sweden
+
+(31) Jun/16  Nigeria        -  United States
+(32) Jun/16  Australia      -  Sweden
+
+
+Group E:
+
+(10) Jun/9   Spain          -  Costa Rica
+(9)  Jun/9   Brazil         -  South Korea
+
+(21) Jun/13  Brazil         -  Spain
+(22) Jun/13  South Korea    -  Costa Rica
+
+(33) Jun/17  Costa Rica     -  Brazil
+(34) Jun/17  South Korea    -  Spain
+
+
+Group F:
+
+(11) Jun/9   France         -  England
+(12) Jun/9   Colombia       -  Mexico
+
+(23) Jun/13  France         -  Colombia
+(24) Jun/13  England        -  Mexico
+
+(35) Jun/17  Mexico         -  France
+(36) Jun/17  England        -  Colombia
+
+
+
+
+
