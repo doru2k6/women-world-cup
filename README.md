@@ -22,19 +22,18 @@ Group D  |  United States  Australia       Sweden        Nigeria
 Group E  |  Brazil         South Korea     Spain         Costa Rica
 Group F  |  France         England         Colombia      Mexico
 
-Matchday 1  |  Jun/6
-Matchday 2  |  Jun/7
-Matchday 3  |  Jun/8
-
+Matchday 1  |  Sat Jun/6
+Matchday 2  |  Sun Jun/7
+Matchday 3  |  Mon Jun/8
 ...
 
 Group A:
 
-(1)  Jun/6   Canada        -  China
-(2)  Jun/6   New Zealand   -  Netherlands
+(1)  Sat Jun/6 16:00   Canada        -  China         @ Commonwealth Stadium, Edmonton (EDT -2)
+(2)  Sat Jun/6 19:00   New Zealand   -  Netherlands   @ Commonwealth Stadium, Edmonton (EDT -2)
 
-(14) Jun/11  China         -  Netherlands
-(13) Jun/11  Canada        -  New Zealand
+(14) Thu Jun/11 16:00  China         -  Netherlands   @ Commonwealth Stadium, Edmonton (EDT -2)
+(13) Thu Jun/11 19:00  Canada        -  New Zealand   @ Commonwealth Stadium, Edmonton (EDT -2)
 
 ...
 ~~~
