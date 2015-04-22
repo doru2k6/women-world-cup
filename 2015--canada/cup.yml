@@ -11,26 +11,26 @@ start_at: 2015-06-06
 
 teams:
 - can # Canada
-- chn # China
-- nzl # New Zealand
-- ned # Netherlands  
-- ger # Germany
-- civ # Côte d'Ivoire
-- nor # Norway
-- tha  # Thailand
-- jpn # Japan
-- sui # Switzerland
-- cmr # Cameroon
-- ecu # Ecuador
 - usa # United States
-- aus # Australia
-- swe # Sweden
-- nga # Nigeria
-- bra # Brazil
-- kor # South Korea
-- esp # Spain
+- mex # Mexico
 - crc # Costa Rica
+- col # Colombia
+- ecu # Ecuador
+- bra # Brazil
+- nor # Norway
+- swe # Sweden
+- esp # Spain
 - fra # France
 - eng # England
-- col # Colombia
-- mex # Mexico
+- ned # Netherlands  
+- ger # Germany
+- sui # Switzerland
+- nga # Nigeria
+- civ # Côte d'Ivoire
+- cmr # Cameroon
+- chn # China
+- tha # Thailand
+- kor # South Korea
+- jpn # Japan
+- aus # Australia
+- nzl # New Zealand
