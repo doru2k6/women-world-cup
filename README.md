@@ -29,11 +29,11 @@ Matchday 3  |  Mon Jun/8
 
 Group A:
 
-(1)  Sat Jun/6 16:00   Canada        -  China         @ Commonwealth Stadium, Edmonton (EDT -2)
-(2)  Sat Jun/6 19:00   New Zealand   -  Netherlands   @ Commonwealth Stadium, Edmonton (EDT -2)
+(1)  Sat Jun/6 16:00   Canada      - China        @ Commonwealth Stadium, Edmonton (EDT -2)
+(2)  Sat Jun/6 19:00   New Zealand - Netherlands  @ Commonwealth Stadium, Edmonton (EDT -2)
 
-(14) Thu Jun/11 16:00  China         -  Netherlands   @ Commonwealth Stadium, Edmonton (EDT -2)
-(13) Thu Jun/11 19:00  Canada        -  New Zealand   @ Commonwealth Stadium, Edmonton (EDT -2)
+(14) Thu Jun/11 16:00  China       - Netherlands  @ Commonwealth Stadium, Edmonton (EDT -2)
+(13) Thu Jun/11 19:00  Canada      - New Zealand  @ Commonwealth Stadium, Edmonton (EDT -2)
 
 ...
 ~~~
